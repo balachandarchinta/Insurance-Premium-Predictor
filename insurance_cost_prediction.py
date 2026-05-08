@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
-df = pd.read_excel(r'C:\Users\balac\OneDrive\Desktop\insurance.csv.xlsx')
+df = pd.read_excel("insurance.csv.xlsx")
 
 """### Loading Data"""
 
